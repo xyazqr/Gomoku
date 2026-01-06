@@ -1,0 +1,6 @@
+
+State Machine - |gomoku|game_fsm:u_game_fsm|input_count
+Name input_count.00 input_count.10 input_count.01 
+input_count.00 0 0 0 
+input_count.01 1 0 1 
+input_count.10 1 1 0 

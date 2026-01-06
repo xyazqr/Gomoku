@@ -1,0 +1,261 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "VGA_R[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_HS",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_VS",
+					"strict" : false
+				},
+				{
+					"name" : "KeyPadRow[0]",
+					"strict" : false
+				},
+				{
+					"name" : "KeyPadRow[1]",
+					"strict" : false
+				},
+				{
+					"name" : "KeyPadRow[2]",
+					"strict" : false
+				},
+				{
+					"name" : "KeyPadRow[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot_row[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot_row[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot_row[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot_row[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot_row[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot_row[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot_row[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot_row[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot1_col[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot1_col[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot1_col[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot1_col[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot1_col[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot1_col[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot1_col[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot1_col[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot2_col[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot2_col[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot2_col[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot2_col[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot2_col[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot2_col[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot2_col[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Dot2_col[7]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "Btn0",
+					"strict" : false
+				},
+				{
+					"name" : "KeyPadCol[1]",
+					"strict" : false
+				},
+				{
+					"name" : "KeyPadCol[0]",
+					"strict" : false
+				},
+				{
+					"name" : "KeyPadCol[2]",
+					"strict" : false
+				},
+				{
+					"name" : "KeyPadCol[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
