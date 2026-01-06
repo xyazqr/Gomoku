@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -16.112
+TNS   : -7096.657
+
+Type  : Slow 1200mV 85C Model Setup 'freqDiv:u_freqDiv|clk_vga'
+Slack : -2.076
+TNS   : -32.186
+
+Type  : Slow 1200mV 85C Model Setup 'freqDiv:u_freqDiv|clk_keypad'
+Slack : -1.382
+TNS   : -14.216
+
+Type  : Slow 1200mV 85C Model Setup 'freqDiv:u_freqDiv|clk_dot'
+Slack : -0.153
+TNS   : -0.153
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.324
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'freqDiv:u_freqDiv|clk_dot'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'freqDiv:u_freqDiv|clk_keypad'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'freqDiv:u_freqDiv|clk_vga'
+Slack : 0.483
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -933.189
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'freqDiv:u_freqDiv|clk_vga'
+Slack : -1.403
+TNS   : -30.866
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'freqDiv:u_freqDiv|clk_keypad'
+Slack : -1.403
+TNS   : -28.060
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'freqDiv:u_freqDiv|clk_dot'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -14.743
+TNS   : -6476.756
+
+Type  : Slow 1200mV 0C Model Setup 'freqDiv:u_freqDiv|clk_vga'
+Slack : -1.834
+TNS   : -27.645
+
+Type  : Slow 1200mV 0C Model Setup 'freqDiv:u_freqDiv|clk_keypad'
+Slack : -1.192
+TNS   : -11.691
+
+Type  : Slow 1200mV 0C Model Setup 'freqDiv:u_freqDiv|clk_dot'
+Slack : -0.055
+TNS   : -0.055
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'freqDiv:u_freqDiv|clk_keypad'
+Slack : 0.305
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'freqDiv:u_freqDiv|clk_dot'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'freqDiv:u_freqDiv|clk_vga'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -933.189
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'freqDiv:u_freqDiv|clk_vga'
+Slack : -1.403
+TNS   : -30.866
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'freqDiv:u_freqDiv|clk_keypad'
+Slack : -1.403
+TNS   : -28.060
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'freqDiv:u_freqDiv|clk_dot'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -6.445
+TNS   : -2848.985
+
+Type  : Fast 1200mV 0C Model Setup 'freqDiv:u_freqDiv|clk_vga'
+Slack : -0.285
+TNS   : -2.193
+
+Type  : Fast 1200mV 0C Model Setup 'freqDiv:u_freqDiv|clk_keypad'
+Slack : 0.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'freqDiv:u_freqDiv|clk_dot'
+Slack : 0.506
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.142
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'freqDiv:u_freqDiv|clk_dot'
+Slack : 0.147
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'freqDiv:u_freqDiv|clk_keypad'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'freqDiv:u_freqDiv|clk_vga'
+Slack : 0.175
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -686.707
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'freqDiv:u_freqDiv|clk_vga'
+Slack : -1.000
+TNS   : -22.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'freqDiv:u_freqDiv|clk_keypad'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'freqDiv:u_freqDiv|clk_dot'
+Slack : -1.000
+TNS   : -3.000
+
+------------------------------------------------------------
